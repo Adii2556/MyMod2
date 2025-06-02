@@ -1,0 +1,14 @@
+type: OverdriveProjector
+name: Super OverDrive
+health: 99999999
+size: 3
+speedBoost: 1001
+range: 999
+hasPower: true 
+consumes: {
+	power: 0.5
+}
+requirements: [
+]
+category:effect
+alwaysUnlocked: true

@@ -1,0 +1,7 @@
+craftTime: 0.33
+liquidCapacity: 6000
+
+outputLiquid: [
+    ozone/40
+    hydrogen/40
+]

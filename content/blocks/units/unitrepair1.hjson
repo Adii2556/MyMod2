@@ -1,0 +1,14 @@
+type: RepairTower
+name: Super Repair Point
+health: 999999999
+range: 999
+size: 1
+refreshInterval: 0.01
+healAmount: 999999999
+consumes: {
+	power: 0.5
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true 

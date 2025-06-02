@@ -1,0 +1,17 @@
+type: Wall
+name: Super Wall
+health: 999999999
+size: 1
+lightningChance: 200
+lightningDamage: 999999999
+lightningLength: 250
+absorbLasers: true
+chanceDeflect: 200
+
+consumes: {
+	power: 0.05
+}
+requirements: [
+]
+category: defense
+alwaysUnlocked: true 

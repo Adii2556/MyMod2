@@ -1,0 +1,3 @@
+consumes: {
+  powerBuffered: 640000.0
+}

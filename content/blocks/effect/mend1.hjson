@@ -1,0 +1,15 @@
+type: MendProjector
+name: Super Mender
+health: 999999999
+size: 2
+hasPower: true
+healPercent: 200
+range: 999
+reload: 1
+consumes: {
+	power: 0.5
+}
+requirements: [
+]
+category: effect
+alwaysUnlocked: true

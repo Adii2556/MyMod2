@@ -1,0 +1,8 @@
+name: my-mod
+displayName: My Mindustry Mod
+author: Adii2556
+description: A Mindustry Mod i consolidated.
+version: "1.1"
+minGameVersion: 136
+dependencies: []
+hideBrowser: false
