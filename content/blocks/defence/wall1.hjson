@@ -8,9 +8,6 @@ lightningLength: 250
 absorbLasers: true
 chanceDeflect: 200
 
-consumes: {
-	power: 0.05
-}
 requirements: [
 ]
 category: defense
