@@ -1,2 +1,3 @@
 pumpAmount: 10
 liquidCapacity: 1200
+alwaysUnlocked: true
