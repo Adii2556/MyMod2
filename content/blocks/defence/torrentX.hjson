@@ -1,0 +1,69 @@
+type: ItemTurret
+health: 2500
+size: 1
+reload: 8.0
+range: 180
+inaccuracy: 1
+rotateSpeed: 12
+
+ammoTypes: {
+        "copper": {
+                "speed": 3.0,
+                "damage": 550000.0,
+                "lifetime": 64,
+                "width": 6,
+                "height": 8,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 5
+        },
+        "opore": {
+                "speed": 3.0,
+                "damage": 30.0,
+                "lifetime": 64,
+                "width": 6,
+                "height": 8,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 5
+        },
+        "holyore": {
+                "speed": 3.0,
+                "damage": 35.0,
+                "lifetime": 64,
+                "width": 6,
+                "height": 8,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 5
+        },
+        "voidore": {
+                "speed": 3.0,
+                "damage": 49.0,
+                "lifetime": 64,
+                "width": 6,
+                "height": 8,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 5
+        },
+        "graphite": {
+                "speed": 3.0,
+                "damage": 550000.0,
+                "lifetime": 64,
+                "width": 6,
+                "height": 8,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 5
+        }
+}
+
+requirements: [
+        
+]
+
+researchCostMultiplier: 0.1
+category: turret
+
+research:
