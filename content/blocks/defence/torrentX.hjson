@@ -17,36 +17,6 @@ ammoTypes: {
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 5
         },
-        "opore": {
-                "speed": 3.0,
-                "damage": 30.0,
-                "lifetime": 64,
-                "width": 6,
-                "height": 8,
-                "shootEffect": "shootSmall",
-                "smokeEffect": "shootSmallSmoke",
-                "ammoMultiplier": 5
-        },
-        "holyore": {
-                "speed": 3.0,
-                "damage": 35.0,
-                "lifetime": 64,
-                "width": 6,
-                "height": 8,
-                "shootEffect": "shootSmall",
-                "smokeEffect": "shootSmallSmoke",
-                "ammoMultiplier": 5
-        },
-        "voidore": {
-                "speed": 3.0,
-                "damage": 49.0,
-                "lifetime": 64,
-                "width": 6,
-                "height": 8,
-                "shootEffect": "shootSmall",
-                "smokeEffect": "shootSmallSmoke",
-                "ammoMultiplier": 5
-        },
         "graphite": {
                 "speed": 3.0,
                 "damage": 550000.0,
